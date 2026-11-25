@@ -326,7 +326,7 @@ def run_dbscan():
     st.markdown("""
     <div class="title-block">
       <h1>DBSCAN — Live Clustering Visualizer</h1>
-      <p>Created by <b>Shiven Watts</b> &nbsp;·&nbsp; Under guidance of <b>Dr. Abhinay Kumar</b></p>
+      <p>Created by <b>Shiven Watts and raunak kareer </b> &nbsp;
     </div>
     """, unsafe_allow_html=True)
 
